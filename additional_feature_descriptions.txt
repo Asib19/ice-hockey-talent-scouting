@@ -1,0 +1,26 @@
+Additional Feature Descriptions: 
+
+helmet_brand: The manufacturer of the player's protective helmet
+tape_color: The color of the friction tape applied to the stick blade or handle
+uses_tinted_visor: Boolean flag indicating if the player uses a tinted visor
+skate_hollow_inches: The depth of the groove ground into the skate blade
+stick_blade_curve_mm: The maximum distance of the blade's curve from a straight line
+extra_sticks_packed: The quantity of spare sticks prepared by the player for a game or trip
+brings_backup_stick: Boolean indicating if the player carries a backup stick to the bench
+avg_shoot_speed: Average velocity of the puck shot by player
+training_pct: Percentage of a life time a Player has spent in training
+pass_drill_success_pct: Percentage of successful completions during passing exercises
+video_review_completion_pct: Ratio of assigned game footage watched by the player
+warmup_laps: Total number of laps skated during the warm-up
+hydration_pct: Metric representing the player's fluid saturation levels
+pregame_music_genre: The primary style of music consumed by the player before puck drop
+locker_room_role: The player's social/leadership designation
+left_skate_first: If the player ties their left skate before the right
+morning_skate_attended: Boolean indicating if the player participated in the early-day practice.
+bus_seat_number: The designated or preferred seating location on team transit
+autographs_signed_week: Total volume of fan signatures provided over a seven-day window
+sleep_hours_before_game: Total duration of rest recorded the night prior to a game
+travel_fatigue_score: Calculated index of physiological impact from recent travel
+recovery_balance_minutes: Time spent in active recovery (physio, cold plunge) vs. exertion
+shot_power_score:A numerical value representing the force of a player's shot  
+golden_tipps: fe4f2a3b5c343248d34be3a22e33448731926391d9262
