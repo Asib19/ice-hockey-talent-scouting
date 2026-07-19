@@ -3,7 +3,7 @@
 Group project for the Knowledge Discovery and Data Mining (KDDM1) course at TU Graz — Group 100.
 
 ## Team
-- Md Asib Mujtoba Shanto (Sky)
+- Md Asib Mujtoba Shanto 
 - Felix Grabler
 - Simon Tilzer
 - Muhammad Hanzla Shoukat
