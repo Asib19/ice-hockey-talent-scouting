@@ -26,5 +26,4 @@ An exploratory data mining and modeling pipeline analyzing hockey player perform
 ## Tech Stack
 Python, pandas, Orange Data Mining
 
----
-*Originally developed on TU Graz GitLab as part of coursework; imported here for portfolio purposes.*
+
